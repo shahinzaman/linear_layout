@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="education">education</string>
+    <string name="sport">sport</string>
+    <string name="game">game</string>
+    <string name="how_to_code_this_ui">how_to_code_this_ui</string>
+    <string name="example_ui_excercise_linearlayout">example_ui_excercise_linearlayout</string>
+</resources>
